@@ -1,1 +1,1 @@
-# Aplicação simples em Phyton/flash com teste integrado ao Travis-ci fazendo deploy no Heroku
+# Aplicação Simples em  Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy no Heroku.
